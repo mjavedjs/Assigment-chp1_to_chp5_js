@@ -1,3 +1,115 @@
+// CHAPTER 1 START
+// 1. Write a script to greet your website visitor using JS alert 
+// box
+
+// alert("Yah! this is my first website");
+
+// Write a script to display following message on your web 
+// page:
+// alert("error! please ennter a valid password");
+
+// Write a script to display following message on your web 
+// page: (Hint : Use line break)
+
+// alert(`welcom to js 
+// Land Happy Codinng`);
+
+// Write a script to display following messages in sequence:
+// alert("WelCome to js land");
+// alert("trying to lean js");
+// Generate the following message through browser’s 
+// developer console:
+
+// console.log("ma brower use kr ra ho");
+
+// CHAPTER 1 END
+
+// CHPATER 2 START
+// Declare a variable called username
+// let username="javed";
+
+// 2. Declare a variable called myName & assign to it a string 
+// that represents your Full Name.
+
+// let username="Muhammad Javed";
+// console.log(using);
+
+// Declare a JS variable, titled message.
+// b) Assign “Hello World” to variable message
+// c) Display the message in alert box
+
+// let title="Hello World";
+// alert(title);
+// Write a script to save student’s bio data in JS variables and 
+// show the data in alert boxes
+
+// alert("my name is javed");
+// alert("my age is 18");
+// alert("Mern stack developer");
+
+
+// Write a script to display the following alert using one JS 
+// variable:
+
+// alert(`pizza 
+//        pizz
+//        piz
+//        pi
+//        pi`);
+
+// 6. Declare a variable called email and assign to it a string that 
+// represents your Email Address(e.g. example@example.com). 
+// Show the blow mentioned message in an alert box.(Hint: use 
+// string concatenation;
+
+// let email="mjavedjs2006@gmail.com";
+// alert(`my Email is ${email}`);
+
+// 7. Declare a variable called book & give it the value “A
+// smarter way to learn JavaScript”. Display the following
+// message in an alert box:
+// let book= "A smarter way to learn JavaScript";
+// alert(`i am trying to lean ${book} as a smater way to lean js`);
+
+// . Write a script to display this in browser through JS
+
+//  let head=document.querySelector("#head");
+//  head.innerHTML=" Yah! I can write HTML Content through the js"
+
+// Store following string in a variable and show in alert and 
+// browser through JS
+
+// alert("_______╰(*°▽°*)╯(┬┬﹏┬┬)_________")
+
+//     CHPATER 2 END 
+//    CHPAPTER 3 SOLUTLION 
+//  Q:Declare a variable called age & assign to it your age. Show
+// your age in an alert box
+
+// let age= 18;
+// alert(`My age is ${age}`);
+
+//  Q:Declare & initialize a variable to keep track of how many
+// times a visitor has visited a web page. Show his/her
+// number of visits on your web page. For example: “You
+// have visited this site N times”
+
+// let visitor= prompt('vistor to  visiged the webpage');
+
+// console.log(`Youhave visited this site ${visitor} times`);
+
+
+// Declare a variable called birthYear & assign to it your
+// birth year. Show the following message in your browser
+
+// let year=2006;
+// console.log(`my birth Year is ${year}`);
+
+//  CHAPGTER 3 END 
+
+
+//  CHPATER 4 START
+
 // legal variable name
 // var name="javed"
 // var Father_Name="javed"
@@ -12,6 +124,10 @@
 // var name class=""
 // var id()="erere"
 
+//  CHPATER 4 END
+
+
+//  CHPATER 5 START
 
 // document.write("The varible only contian number  $ and _ underscore ForExample:$my_1stVarible  <br>");
 // document.write("varible must start with letter or $  ForExample S_name or  name  <br> ");
@@ -134,3 +250,4 @@
 // var totalChipsNeeded = (maxAge - currentAge) * daysInYear * amountOfChipsPerDay;
 // console.log(totalChipsNeeded);
 
+//  CHPATER 5 END
